@@ -1,5 +1,7 @@
 # 🌐 Farhan Khan – Developer Portfolio
 
+https://frhnkhn.github.io/portfolio/
+
 Welcome to my personal developer portfolio repository.
 
 This portfolio showcases my work in AI systems, full-stack development, and product-focused engineering. It highlights selected projects that demonstrate my problem-solving ability, system design thinking, and practical implementation skills.
