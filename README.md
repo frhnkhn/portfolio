@@ -60,8 +60,8 @@ https://your-portfolio-link.com
 
 ## 📬 Connect With Me
 
-GitHub: https://github.com/your-username  
-LinkedIn: (Add if available)
+GitHub: https://github.com/frhnkhn
+LinkedIn: https://www.linkedin.com/in/frhnkhn006/
 
 ---
 
