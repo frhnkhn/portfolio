@@ -49,15 +49,6 @@ This portfolio serves as:
 
 ---
 
-## 📌 Live Portfolio
-
-(Add your deployed link here)
-
-Example:
-https://your-portfolio-link.com
-
----
-
 ## 📬 Connect With Me
 
 GitHub: https://github.com/frhnkhn
